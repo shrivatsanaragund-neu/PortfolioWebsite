@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio!
 
-### Weblink: [My Personal Portfolio](https://shrivatsa-naragund-portfolio.netlify.app/)
+### Weblink: [Click here to view Live website](https://shrivatsa-naragund-portfolio.netlify.app/)
 
 ## Introduction
 My Portfolio is a React.js application that provides an overview of my background, displays my projects, and offers a way to contact me.
